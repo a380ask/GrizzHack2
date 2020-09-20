@@ -1,10 +1,13 @@
 # GrizzHack2
 This is a Hackathon project, called TEENCHAT
-##Elevator Pitch: A website to offer teens with COVID-19 a way to make connections and find resources to support themselves during these difficult times. 
+## Elevator Pitch: 
+A website to offer teens with COVID-19 a way to make connections and find resources to support themselves during these difficult times. 
 Positive, experience, resources, 
-## Inspiration: We were inspired to create this website because we wanted to give teens  who have tested positive for COVID-19 a chance to connect with others like them so that they can get comfort and support during these difficult times. This website also gives teens an opportunity to make new friends while they are quarantined. Whenever we look at other websites,  we only see negative and depressing news as well as information. However, through our website, we are trying to offer a more positive outlook during these hardships.
+## Inspiration: 
+We were inspired to create this website because we wanted to give teens  who have tested positive for COVID-19 a chance to connect with others like them so that they can get comfort and support during these difficult times. This website also gives teens an opportunity to make new friends while they are quarantined. Whenever we look at other websites,  we only see negative and depressing news as well as information. However, through our website, we are trying to offer a more positive outlook during these hardships.
 
-## What it does This website offers a chat room for teens who have COVID to talk to others  in a similar situation anonymously. This website allows the user to register themselves with an email and create their own username which is the only name that will be displayed on the website to respect people’s privacy.  We also offer a chatbot on our home page which performs a test to determine whether the user needs to be tested for COVID-19 and also informs them if they need to be hospitalized based on their symptoms. It also informs of the severe symptoms of COVID-19 and the symptoms that happen within 48 hours. This website also provides information on the number of cases within the United States and also on ways one can donate their time and money for COVID relief. 
+## What it does 
+This website offers a chat room for teens who have COVID to talk to others  in a similar situation anonymously. This website allows the user to register themselves with an email and create their own username which is the only name that will be displayed on the website to respect people’s privacy.  We also offer a chatbot on our home page which performs a test to determine whether the user needs to be tested for COVID-19 and also informs them if they need to be hospitalized based on their symptoms. It also informs of the severe symptoms of COVID-19 and the symptoms that happen within 48 hours. This website also provides information on the number of cases within the United States and also on ways one can donate their time and money for COVID relief. 
 
 ## How we built it
 We used HTML5, CSS3, Bootstrap5, Python, Flask, MongoDB, and an API from Postman API to build a web application. 
