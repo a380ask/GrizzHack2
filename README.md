@@ -2,7 +2,9 @@
 This is a Hackathon project, called TEENCHAT
 ## Elevator Pitch: 
 A website to offer teens with COVID-19 a way to make connections and find resources to support themselves during these difficult times. 
-Positive, experience, resources, 
+### #Positive
+### #Experience
+### #Resources
 ## Inspiration: 
 We were inspired to create this website because we wanted to give teens  who have tested positive for COVID-19 a chance to connect with others like them so that they can get comfort and support during these difficult times. This website also gives teens an opportunity to make new friends while they are quarantined. Whenever we look at other websites,  we only see negative and depressing news as well as information. However, through our website, we are trying to offer a more positive outlook during these hardships.
 
